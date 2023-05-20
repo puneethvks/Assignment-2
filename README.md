@@ -9,7 +9,6 @@ Installations
      * If you already have `Anaconda` installed, go ahead with the further steps, no need to install miniconda.
      * If `conda` cmd is not in your path, you can configure your shell by running `conda init`.
 
-
 * Ensure you have `git` installed and can be run from your shell
 
      **NOTE**
